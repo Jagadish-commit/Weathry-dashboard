@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.animated-border-card {
+  position: relative;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  /* border-image: linear-gradient(90deg, rgba(56,189,248,0.95), rgba(168,85,247,0.95), rgba(99,102,241,0.95), rgba(56,189,248,0.95)) 1; */
+  background-clip: padding-box;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.animated-border-card:hover {
+  box-shadow: 0 0 35px rgba(56,189,248,0.2);
+  transform: translateY(-2px);
+}

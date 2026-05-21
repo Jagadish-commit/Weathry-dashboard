@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="sunGradient" x1="14" y1="14" x2="36" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="18" r="10" fill="url(#sunGradient)"/>
+  <path d="M49 36c0-6.075-4.925-11-11-11-1.531 0-2.98.344-4.29.96A9.995 9.995 0 0 0 29 21c-5.523 0-10 4.477-10 10 0 .829.106 1.635.304 2.41A7.5 7.5 0 0 0 12 41.5C12 45.642 15.358 49 19.5 49h25c4.142 0 7.5-3.358 7.5-7.5 0-3.834-2.79-7.01-6.316-7.404A11.006 11.006 0 0 0 49 36Z" fill="#38BDF8"/>
+  <path d="M35 11l-3.5-6.062a1 1 0 0 0-1.79 0L26.2 11H18a1 1 0 0 0 0 2h7.575l1.553 2.688a1 1 0 0 0 1.79 0L33.425 13H42a1 1 0 0 0 0-2h-6.553Z" fill="#F59E0B" opacity="0.9"/>
+</svg>
